@@ -12,3 +12,4 @@ All examples are indepedent!
 * Spring Boot Update PUT - POST - PATCH
 * Spring Boot Social
 * Spring Boot REST Docs
+* Spring Boot Conditional Requests

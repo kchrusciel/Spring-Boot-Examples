@@ -9,7 +9,7 @@ All examples are indepedent!
 * [Spring Boot Config](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-config-example)
 * [Spring Boot Eureka](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-eureka-example)
 * [Spring Boot Zipkin](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-zipkin-example)
-* Spring Boot Update PUT - POST - PATCH
+* [Spring Boot Update PUT - POST - PATCH](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-update-example)
 * Spring Boot Social
 * Spring Boot REST Docs
 * Spring Boot Conditional Requests

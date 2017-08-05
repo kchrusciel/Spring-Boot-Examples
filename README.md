@@ -5,10 +5,10 @@ All examples are indepedent!
 
 ## Examples
 
-* Spring Boot Properties
+* [Spring Boot Properties]()
 * Spring Boot Config
 * Spring Boot Eureka
-* Spring Boot Zipkin
+* [Spring Boot Zipkin](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-zipkin-example)
 * Spring Boot Update PUT - POST - PATCH
 * Spring Boot Social
 * Spring Boot REST Docs

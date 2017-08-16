@@ -1,0 +1,21 @@
+= Todos API Reference
+CodeCouple.pl - Version 1.0.1;
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+
+[[headers]]
+== Headers
+
+Curl-request in CodeCouple.pl:
+
+include::{snippets}/todos/curl-request.adoc[]
+include::{snippets}/todos/http-request.adoc[]
+include::{snippets}/todos/http-response.adoc[]
+
+include::{snippets}/todos/response-fields.adoc[]
+include::{snippets}/todos/request-parameters.adoc[]

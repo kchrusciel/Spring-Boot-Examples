@@ -11,5 +11,6 @@ All examples are indepedent!
 * [Spring Boot Zipkin](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-zipkin-example)
 * [Spring Boot Update PUT - POST - PATCH](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-update-example)
 * [Spring Boot REST Docs](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-rest-docs-example)
+* [Spring Boot Dockerfile](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-dockerfile-example)
 * Spring Boot Conditional Requests
 * Spring Boot Social

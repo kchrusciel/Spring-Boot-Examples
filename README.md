@@ -13,5 +13,6 @@ All examples are indepedent!
 * [Spring Boot REST Docs](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-rest-docs-example)
 * [Spring Boot Dockerfile](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-dockerfile-example)
 * [Spring Boot RabbitMQ](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-rabbitmq-example)
+* [Spring Boot Docker Compose](https://github.com/kchrusciel/Spring-Boot-Examples/tree/master/spring-boot-docker-compose-example)
 * Spring Boot Conditional Requests
 * Spring Boot Social
